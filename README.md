@@ -29,6 +29,7 @@ As a developer, you will be writing tests for every component. As we've learned,
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
 **Test Runner**
+
 - [ ] In a new terminal window, run `yarn test` or `npm run test`
 - [ ] With each saved change in your editor, the test runner will re-run all the tests
 - [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
@@ -59,3 +60,5 @@ _If you come across any "unexpected" behaviors, try this flow:_
 
 - Add more elements to the form - eg dropdown, checkbox, etc
   - Add tests to include the new form elements
+
+<!-- Initial -->
